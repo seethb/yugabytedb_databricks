@@ -1,4 +1,6 @@
 
+Download one of the file (either HTML or Python or iPython or DBC) and run it in Open source Databricks or Azure Databricks which has got spark cluster and keep your YugabyteDB up and running.
+
 This notebook will help you to learn how YugabyteDB(YSQL) can connect from Azure Databricks. In this demo, following scenarios are covered
 
 1. Load CSV from Databricks Filestore into YugabyteDB
