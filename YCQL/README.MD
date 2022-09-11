@@ -16,6 +16,10 @@ This notebook will help you to learn how YugabyteDB(YCQL) can connect from Azure
 Note: Before running the above scenarios. the sample code expects the following keyspace and table details loaded in YCQL
 
 create keyspace demo; 
+
 create table demo.employee(id integer primary key, name text, age text, language text);
+
 create table demo.salesprofit_test(orderid text primary key, region text,country text,itemtype text,saleschannel text,orderpriority text,orderdate text,shipdate text,unitssold  text, unitprice  text, unitcost  text, totalrevenue  text, totalcost text, totalprofit  text);
+
+
 create table demo.salesprofit_test1(orderid text primary key, region text,country text,itemtype text,saleschannel text,orderpriority text,orderdate text,shipdate text,unitssold  text, unitprice  text, unitcost  text, totalrevenue  text, totalcost text, totalprofit  text);
