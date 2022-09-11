@@ -1,3 +1,5 @@
+Download one of the file (either HTML or Scala or DBC) and run it in Open source Databricks or Azure Databricks which has got spark cluster..
+
 This notebook will help you to learn how YugabyteDB(YSQL) can connect from Azure Databricks. In this demo, following scenarios are covered
 
 1. Load CSV from Databricks Filestore into YugabyteDB
@@ -11,4 +13,4 @@ This notebook will help you to learn how YugabyteDB(YSQL) can connect from Azure
 5. Export YugabyteDB table into Delta Lake Table
 6. Data Visualization and sample queries
 
-Download one of the file (either HTML or Scala or DBC) and run it in Open source Databricks or Azure Databricks which has got spark cluster..
+
