@@ -1,4 +1,9 @@
 
+Download one of the file (either HTML or Python or iPython or DBC) and run it in Open source Databricks or Azure Databricks which has got spark cluster and keep your YugabyteDB up and running.
+
+Download the following libary from Maven repository and add in your spark cluster library folder for connecting YCQL from your spark cluster.
+com.yugabyte.spark:spark-cassandra-connector-assembly_2.12:3.0-yb-10
+
 This notebook will help you to learn how YugabyteDB(YCQL) can connect from Azure Databricks. In this demo, following scenarios are covered
 
 1. Load CSV from Databricks Filestore into YugabyteDB
