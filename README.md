@@ -10,3 +10,5 @@ This notebook will help you to learn how YugabyteDB(YSQL) can connect from Azure
 4. Import Delta Table into YugabyteDB table
 5. Export YugabyteDB table into Delta Lake Table
 6. Data Visualization and sample queries
+
+Download one of the file (either HTML or Scala or DBC) and run it in Open source Databricks or Azure Databricks which has got spark cluster..
